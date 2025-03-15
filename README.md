@@ -1,1 +1,1 @@
-# SE를 위한 깃 실습
+# Test Project
